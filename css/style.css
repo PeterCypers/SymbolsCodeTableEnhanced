@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(133, 194, 160);
+    
+}
+table, tr, td{
+    
+    border-collapse: collapse;
+border: solid gray 1px;
+padding: 10px;
+}
+div{
+    border:solid purple 5px;
+}
+td{
+    text-align: center;
+}
+
+
+
+table{
+    
+    padding-bottom: 100px;
+    background-color: #fff;
+}
+/* cursor behavior not yet set in stone */
+td:hover{
+    cursor: unset;
+    background-color: mediumslateblue;
+}
+td{
+    user-select: none;
+}
+#selectswitch{
+    height: 30px;
+    width: 100px;
+    margin: 10px;
+    margin-top: 0px;
+    margin-bottom: 16px;
+    /* background-color: red;
+    color: white; */
+}
+#selectswitch:hover{
+    background-color: salmon;
+    cursor: pointer;
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Symbols Code Table</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- tr>td[title="&#38&#35 $$$$"].symbol$$$${&#$$$$}*999 -->
+    <!-- always add one extra td for the 1000th symbol  -->
+    <!-- tr>td[title="&#38&#35 1$$$"].symbol1$$${&#1$$$}*999 -->
+    <!-- tr>td[title="&#38&#35 2$$$"].symbol2$$${&#2$$$}*999 -->
+    <!-- tr>td[title="&#38&#35 3$$$"].symbol3$$${&#3$$$}*999 -->
+    <!-- tr>td[title="&#38&#35 4$$$"].symbol4$$${&#4$$$}*999 -->
+    <!-- tr>td[title="&#38&#35 5$$$"].symbol5$$${&#5$$$}*999 -->
+    <!-- tr>td[title="&#38&#35 6$$$"].symbol6$$${&#6$$$}*999 -->
+    <!-- tr>td[title="&#38&#35 7$$$"].symbol7$$${&#7$$$}*999 -->
+    <!-- tr>td[title="&#38&#35 8$$$"].symbol8$$${&#8$$$}*999 -->
+    <!-- tr>td[title="&#38&#35 9$$$"].symbol9$$${&#9$$$}*999 -->
+</head>
+<body>
+    <header>
+        <h1 style="text-decoration: underline; font-weight: 700;">
+            HTML Symbols Code Table
+        </h1>
+    </header>
+    <article>
+        <p>Mouse-over an element, or use inspect element dev tool, the class symbol number = the number for the code</p>
+        <p>example &#38&#35 35 ="#"</p>
+    </article>
+    <div style="overflow-x: auto;">
